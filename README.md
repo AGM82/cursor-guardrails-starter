@@ -2,7 +2,7 @@
 
 Thin project template — **guardrails only**, no playbook, Throughline prompts, or scheduled AI-review workflows.
 
-Synced automatically from the [cursor-guardrails](https://github.com/AGM82/cursor-guardrails) hub (guardrail **v1.5.0**). Use this repo for GitHub **Use this template**. Keep a separate plain `git clone` of the **hub** as your reference clone for `/guardrail-upgrade`.
+Synced automatically from the [cursor-guardrails](https://github.com/AGM82/cursor-guardrails) hub (guardrail **v1.5.1**). Use this repo for GitHub **Use this template**. Keep a separate plain `git clone` of the **hub** as your reference clone for `/guardrail-upgrade`.
 
 ## Setup (new project)
 
